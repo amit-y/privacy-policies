@@ -49,7 +49,7 @@ We are concerned about safeguarding the confidentiality of your information. We 
 
 ## Changes
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy `Insert URL` and `IF THE APPLICATION OBTAINS EMAIL AND/OR PHONE #`. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by `Insert the link of the version history on Docracy, available under`.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy `Insert URL`. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by `Insert History URL`.
 
 ## Your Consent
 
